@@ -12,7 +12,7 @@ public class NilaiKelompok08 {
         System.out.println("Jumlah kelompok dan penilai harus > 0.");
         } else {
         int nomorKelompok = 1; // penghitung outer loop
-        double rataTertinggi = -1; // -1 agar kelompok pertama pasti tercatat
+        double rataTertinggi = 0; // -1 agar kelompok pertama pasti tercatat
         int kelompokTerbaik = 0;
 
         while (nomorKelompok <= jumlahKelompok) {
