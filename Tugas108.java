@@ -17,7 +17,7 @@ public class Tugas108 {
                 }
                 System.out.println();
             }
-            System.out.println("total dicetak: "+ totalCetak);
+            System.out.println("total dicetak: " + totalCetak);
             sc.close();
         }
 
